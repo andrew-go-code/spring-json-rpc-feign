@@ -1,0 +1,6 @@
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    implementation 'com.github.briandilley.jsonrpc4j:jsonrpc4j:1.5.3'
+    runtimeOnly 'javax.jws:jsr181-api:1.0-MR1'
+}

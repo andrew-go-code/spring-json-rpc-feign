@@ -1,0 +1,4 @@
+rootProject.name = 'spring-json-rpc-feign'
+
+include "spring-json-rpc-demo-server"
+include "spring-json-rpc-demo-client"
